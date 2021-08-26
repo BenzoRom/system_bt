@@ -91,7 +91,6 @@ fluoride_defaults {
         "libbt-platform-protos-lite",
         "libbluetooth_rust_interop",
         "liblog",
-        "libcutils",
     ],
     cpp_std: "c++17",
     sanitize: {
